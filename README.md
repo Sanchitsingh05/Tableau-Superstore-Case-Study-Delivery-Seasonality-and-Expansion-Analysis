@@ -11,7 +11,7 @@ The objective of this project is to:
 3. Recommend profitable regions for expansion based on sales and profit data.
 
 ## 📁 Dataset
-**Source**: [Tableau Superstore Sample Dataset](https://public.tableau.com/app/sample-data/superstore)
+**Source**: [Tableau Superstore Sample Dataset]([https://public.tableau.com/app/sample-data/superstore](https://github.com/Sanchitsingh05/Tableau-Superstore-Case-Study-Delivery-Seasonality-and-Expansion-Analysis/blob/main/Tableau%20Case%20Study%20Dataset.xlsx))
 * **Records**: 51,290 Orders
 * **Fields Include**:
 
